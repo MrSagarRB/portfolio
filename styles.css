@@ -81,6 +81,8 @@ border: 2px solid #6caed5;
 
 .profile-img{
     height: 400px;
+    border-radius: 5px;
+   
 }
 
 .nav-bar{
@@ -97,7 +99,7 @@ border: 2px solid #6caed5;
 }
 
 .navbar-brand img{
-    height: 50px;
+    height: 100px;
 }
 
 
